@@ -1,5 +1,4 @@
-# 🔐 Retrieval-Augmented Generation (RAG) with AES Encryption
-
+# 🔐 RAG + AES: Secure AI Chatbot for Confidential Documents
 This project implements a **secure and efficient Retrieval-Augmented Generation (RAG) pipeline** using **quantized Hugging Face language models** and **AES-based encryption**. It enables secure, document-aware question answering using local `.pdf` and `.docx` files, with AI responses encrypted for safety.
 
 Combining **Large Language Models**, **document retrieval**, and **end-to-end encryption**, this notebook offers a novel pipeline ideal for privacy-preserving enterprise or medical use cases.
